@@ -1,0 +1,2 @@
+## below libraries are need be installed
+streamlit
